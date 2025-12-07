@@ -1,7 +1,7 @@
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "8271506797:AAHBkap1k50sTMWuGZDrukfY57l96WYxpWA"
+TOKEN = "8430336430:AAEFX6dKHlUweIN3O1R4aA5gi9KS76nq1R8"
 CHANNEL_USERNAME = "@lego3x"
 CHANNEL_POST = -1002231202854
 ADMINS = [7615929638]
