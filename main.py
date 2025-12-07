@@ -2,8 +2,8 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 TOKEN = "8271506797:AAHBkap1k50sTMWuGZDrukfY57l96WYxpWA"
-CHANNEL_USERNAME = "@yorklme"
-CHANNEL_POST = -1003481744348
+CHANNEL_USERNAME = "@lego3x"
+CHANNEL_POST = -1002231202854
 ADMINS = [7615929638]
 
 bot = telebot.TeleBot(TOKEN)
